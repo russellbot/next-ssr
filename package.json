@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/russellbot/next-ssr#readme",
   "dependencies": {
+    "isomorphic-unfetch": "^3.0.0",
     "next": "^9.5.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
